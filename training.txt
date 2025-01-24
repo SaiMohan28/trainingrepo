@@ -1,1 +1,2 @@
-Version 1
+VERSION 1
+Now it is in VERSION 2
